@@ -1,2 +1,2 @@
-# VSMML.
+# VSMML
 Under Construction
